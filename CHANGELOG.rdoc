@@ -1,0 +1,5 @@
+= MocRuby CHANGELOG
+
+== Version 0.1.0 (March xx, 2013)
+
+* Initial release
