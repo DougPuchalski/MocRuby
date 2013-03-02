@@ -1,3 +1,4 @@
+require "moc_ruby/core_ext"
 require "moc_ruby/version"
 
 module MocRuby
