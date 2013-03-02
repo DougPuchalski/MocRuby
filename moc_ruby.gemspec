@@ -13,4 +13,6 @@ Gem::Specification.new do |gem|
   gem.name          = "moc_ruby"
   gem.require_paths = ["lib"]
   gem.version       = "0.1.0"
+
+  gem.add_dependency "lock-o-motion", ">= 0.1.2"
 end
